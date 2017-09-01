@@ -1,4 +1,7 @@
 
+[![DOI](https://zenodo.org/badge/83053357.svg)](https://zenodo.org/badge/latestdoi/83053357)
+
+
 # A 3D model of the stela of Denieunkhonsu AncientLives
 
 3D data for recreation of a British Museum object.
