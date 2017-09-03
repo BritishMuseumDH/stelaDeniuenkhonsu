@@ -5,7 +5,7 @@
 
 3D data for recreation of a British Museum object.
 
-![](denieunkhonsu.gif)
+![](deniuenkhonsu.gif)
 Wooden funerary stela of Deniuenkhons: Deniuenkhons wears a long, full wig embellished with a floral fillet, a perfume cone, and lotuses.
 
 COL: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=117434
