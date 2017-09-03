@@ -11,3 +11,5 @@ The contents of this repository are licensed under CC-BY-NC-SA
 
 # Credits
 Photographs and models by Daniel Pett <dpett@britishmuseum.org>, Digital Humanities Lead, British Museum
+
+Copyright Trustees of the British Museum
